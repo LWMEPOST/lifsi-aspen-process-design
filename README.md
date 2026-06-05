@@ -1,5 +1,9 @@
-﻿# LiFSI Aspen Process Design
+# LiFSI Aspen 工艺设计资料
 
-LiFSI Aspen Plus process design materials
+本项目包含 LiFSI 连续化合成工艺设计相关的辅助脚本和建模资料，用于课程设计或工艺方案整理。
 
-This repository contains the code-only snapshot for the local project folder. Generated documents, thesis materials, defense notes, dependency folders, build outputs, archives, datasets, model weights, videos, local tools, and secrets are intentionally excluded.
+## 上传说明
+
+本仓库只保留项目运行和二次开发所需的代码、配置、数据库脚本及少量必要静态资源。
+
+以下内容不会上传：论文、答辩材料、临时文档、依赖目录、构建产物、压缩包、数据集、模型权重、视频、日志、本地工具包以及密钥配置。
